@@ -18,5 +18,21 @@
 ###### - 4) Down-sampling
 ###### - 5) ML 5-Model Evaluation
 
+#### * Attribute Info
+###### - id : unique identifier
+###### - gender : "Male", "Female", "Other"
+###### - age : age
+###### - hypertension : 0 --> doesn't have, 1--> have
+###### - heart_disease : 0 --> doesn't have, 1--> have
+###### - ever_married : "Yes", "No"
+###### - work_type : "children", "Govt_jov", "Never_worked", "Private", "Self-employed"
+###### - Residence_type : "Rural", "Urban"
+###### - avg_glucose_level : average glucose level in blood
+###### - bmi : body mass index
+###### - smoking_status : "formely smoked", "never smoked", "smokes", "Unknown"
+###### - stroke : 0 --> doesn't have, 1--> have
+###### * "Unknown" in smoking_status means that the info is unavailable for this patient
+###### * Source : https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
+
 #### CONCLUSION
 
