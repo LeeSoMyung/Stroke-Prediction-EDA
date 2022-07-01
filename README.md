@@ -34,5 +34,17 @@
 ###### * "Unknown" in smoking_status means that the info is unavailable for this patient
 ###### * Source : https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
+#### *Machine Learning Model
+###### - 1) Linear Regression
+###### - 2) Logistic Regression
+###### - 3) XGBoost
+###### - 4) Random Forest
+###### - 5) KNN
+
 #### CONCLUSION
+###### - 각 모델을 classification report을 통해 precision, recall, f1-score, accuracy를 평가한 결과,
+######   각 모델 모두 class 0에 초점을 맞춘 결과를 보여줌 (class 0의 샘플이 class 1보다 많기 때문)
+###### - 그럼에도, class 1에서 제일 높은 예측율을 보여준 모델은 Random Forest Model (precision 0.55, recall 0.4)
+###### -class 1의 recall 등 값을 더 높이려면 TP(True Positive)를 높여야 할 필요성이 보임
+
 
