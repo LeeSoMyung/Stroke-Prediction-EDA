@@ -38,8 +38,8 @@
 ###### - 1) Linear Regression
 ###### - 2) Logistic Regression
 ###### - 3) XGBoost
-###### - 4) Random Forest
-###### - 5) KNN
+###### - 4) KNN
+###### - 5) Random Forest
 
 #### * CONCLUSION
 ###### - 각 모델을 classification report을 통해 precision, recall, f1-score, accuracy를 평가한 결과,
