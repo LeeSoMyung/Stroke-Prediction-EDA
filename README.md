@@ -1,4 +1,4 @@
-# Stroke-Prediction-EDA
+# Stroke-Prediction-EDA (뇌졸중 예측 프로젝트)
 
 ### ML PROJECT
 
